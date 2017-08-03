@@ -1,0 +1,8 @@
+16:04 28/07/2017
+Gerente de TI: R$ 5580,36 fonte: https://www.sine.com.br/media-salarial-para-gerente-de-ti
+Técnico de Informática: R$ 1456,43 fonte: https://www.sine.com.br/media-salarial-para-tecnico-de-informatica
+DBA: R$ 3945,64 fonte: https://www.sine.com.br/media-salarial-para-dba
+Analista de sistemas: R$ 3772,54 fonte: https://www.sine.com.br/media-salarial-para-analista-de-sistemas
+Analista de redes: R$ 3304,10 fonte: https://www.sine.com.br/media-salarial-para-analista-de-redes
+Coordenador de Infraestrutura: R$ 5342,44 fonte: https://www.sine.com.br/media-salarial-para-coordenador-de-infraestrutura
+Suporte técnico: R$ 1623,20 fonte: https://www.sine.com.br/media-salarial-para-coordenador-de-infraestrutura
